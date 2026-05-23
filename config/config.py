@@ -1,0 +1,5 @@
+BASE_URL = "https://v2.zenclass.in"
+VALID_USERNAME = "aespriya@gmail.com"
+VALID_PASSWORD = "Guvi*hcl@1610"
+INVALID_USERNAME = "wrong_user"
+INVALID_PASSWORD = "wrong_pass"
